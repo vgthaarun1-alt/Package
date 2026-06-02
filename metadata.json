@@ -1,0 +1,6 @@
+{
+  "name": "Secure Patient Records and Scheduler",
+  "description": "A secure, HIPAA-compliant patient health records manager and appointment scheduler featuring multi-factor authentication, end-to-end encryption, role-based access control, system audit logs, and FHIR integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
